@@ -1,5 +1,5 @@
 ## Introduction 
-#### The Call Center Dashboard provides a visual summary of call center operations using Power BI. It helps monitor key performance indicators (KPIs) such as total calls, average handling time, agent performance, call resolution rate, and customer satisfaction. The dashboard enables managers to make data-driven decisions to improve efficiency and customer service quality.
+#### The Call Center Operational Analysis provides a visual summary of call center operations using Power BI. It helps monitor key performance indicators (KPIs) such as total calls, average handling time, agent performance, call resolution rate, and customer satisfaction. The dashboard enables managers to make data-driven decisions to improve efficiency and customer service quality.
 ## Tools Used
 #### Power BI : Used to connect data sources, clean and transform data, create visual reports, and publish interactive dashboards.
 #### Excel / CSV : Used as the data source containing call logs, agent data, and performance metrics.
