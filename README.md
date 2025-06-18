@@ -26,7 +26,7 @@
 ## Total Calls By Week Number and Sentiment 
 #### ![image](https://github.com/user-attachments/assets/803e3302-1b59-4009-b5fe-ca3e3b35c86d)
 ## Conclusion
-#### The Call Center Dashboard built with Power BI provides a powerful and interactive way to monitor and analyze call center performance in real time.By visualizing key metrics,it helps management identify bottlenecks, improve agent productivity, and enhance customer satisfaction. This dashboard supports better decision-making and contributes to building a more efficient and customer-focused support system.
+#### The Call Center Operational Analysis built with Power BI provides a powerful and interactive way to monitor and analyze call center performance in real time.By visualizing key metrics,it helps management identify bottlenecks, improve agent productivity, and enhance customer satisfaction. This dashboard supports better decision-making and contributes to building a more efficient and customer-focused support system.
 
 
 
